@@ -1,7 +1,7 @@
 ## Proyecto Individual #2 - Data Analytics
 
 
-Para el presente proyecto se realizó un análisis completo del comportamiento del acceso a internet en :argentina:, gracias a los datos abiertos de ***ENACOM***. 
+Para el presente proyecto se realizó un análisis completo del comportamiento del acceso a internet en Argentina, gracias a los datos abiertos de ***ENACOM***. 
 
 Se emplearon un total de 11 conjuntos de datos proporcionados por ***ENACOM***. Agrupados en dos categorías: general y provincias, según correspondieran a la información general del país o al desglose de las provincias.
 
